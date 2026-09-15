@@ -715,6 +715,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 894392285394002330, guid: a1aae1251135fbb42b90c7715081e411, type: 3}
+      propertyPath: checkRadius
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 894392285394002330, guid: a1aae1251135fbb42b90c7715081e411, type: 3}
+      propertyPath: numOfPellets
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 2324439665616689996, guid: a1aae1251135fbb42b90c7715081e411, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.9285715
@@ -758,6 +766,10 @@ PrefabInstance:
     - target: {fileID: 4163705170725861673, guid: a1aae1251135fbb42b90c7715081e411, type: 3}
       propertyPath: m_Name
       value: Level (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6796638009737043783, guid: a1aae1251135fbb42b90c7715081e411, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
